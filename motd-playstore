@@ -1,0 +1,16 @@
+
+CREATED BY MR.614CK12 (FSTEAM CYBER INDONESIA)
+------------------------------------------
+Email :     fsteamcyber@gmail.com
+website :   http://fsteamid.github.io
+facebook:  fb.com/fsteamcyber
+Termux Style By | FSteam Cyber Indonesia
+-------------------------------------------
+OH NO :(
+
+PLEASE UPDATE YOUR TERMUX ON PLAYSTORE
+YOUR TERMUX HAS EXPIRED
+
+follow this command to remove this warning 
+rm -f /data/data/com.termux/files/usr/etc/motd-playstore 
+...........................................

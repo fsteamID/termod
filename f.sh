@@ -1,0 +1,3 @@
+z="
+";Wz=''\'','\''C';vz='slee';gz='>> $';Zz='T'\'','\''';bz=''\'','\''D';fz=']]" ';Rz='UP'\'',';mz='prop';lz='mux.';pz='& te';xz='&& l';tz='ings';Xz='TRL'\''';Sz=''\''END';Bz='kdir';Qz='E'\'','\''';oz='es &';dz=','\''RI';nz='erti';hz='HOME';Uz=''\''],[';rz='oad-';Az='cd m';Tz=''\'','\''@';Nz=''\''/'\'',';Iz='xtra';qz='-rel';Jz='-key';iz='/.te';jz='rmux';wz='p 1 ';ez='GHT'\''';Fz='ux/ ';sz='sett';kz='/ter';Ez='term';Mz='SC'\'',';Oz=''\''-'\'',';Lz='[['\''E';Kz='s = ';ABz='t';Pz=''\''HOM';Dz='ME/.';yz='ogou';Gz=';ech';Yz=','\''AL';Cz=' $HO';Hz='o "e';cz='OWN'\''';Vz=''\''TAB';az='LEFT';uz=' && ';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$jz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz"
